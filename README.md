@@ -17,11 +17,11 @@ This is a dummy AI Image Editing Tool built with Next.js. This tool allows users
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AggarwalVansh/project-p
+    git clone https://github.com/AggarwalVansh/my-app
     ```
 2. Navigate to the project directory:
     ```bash
-    cd project-p
+    cd my-app
     ```
 3. Install the dependencies:
     ```bash
